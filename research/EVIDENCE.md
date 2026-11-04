@@ -87,8 +87,6 @@ An anonymous multilingual self-help programme run by Protect Children (Finland),
 **Source:** Protect Children, ReDirection programme
 <https://www.suojellaanlapsia.fi/en/redirection>
 
-[VERIFY] The URL was previously `/en/old-redirection` but that now returns a 404. The URL above needs confirmation.
-
 ---
 
 ## 7. Prevent It Online Therapy (Karolinska Institutet)

@@ -1,6 +1,6 @@
 # Challenge Brief — Stop Before It Starts: Plug-and-Play Prevention for Platforms
 
-> **Full PDF:** [`UNICRI Challenge Brief HFG#8 {draft v1.1 _ 3 Nov 2026}.pdf`](UNICRI%20Challenge%20Brief%20HFG%238%20%7Bdraft%20v1.1%20_%203%20Nov%202026%7D.pdf)
+> **Full PDF:** [`UNICRI Challenge Brief HFG#8.pdf`](UNICRI%20Challenge%20Brief%20HFG%238.pdf)
 
 | | |
 |---|---|

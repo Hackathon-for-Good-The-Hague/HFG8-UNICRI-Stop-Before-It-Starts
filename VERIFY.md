@@ -15,8 +15,8 @@ Every `[VERIFY]` marker in the repository is collected here. These items need in
 
 | Item | File | Status |
 |------|------|--------|
-| ReDirection URL: `/en/old-redirection` returns 404, changed to `/en/redirection` — confirm this is the correct current URL | `data/help-services.json`, `research/READING.md`, `research/EVIDENCE.md` | Open |
-| Kein Täter werden: URL changed from EUCPN secondary source to `https://www.kein-taeter-werden.de/` — confirm this is the programme's current website | `data/help-services.json` | Open |
+| ReDirection URL: `/en/old-redirection` returns 404, changed to `/en/redirection` — confirm this is the correct current URL | `data/help-services.json`, `research/READING.md`, `research/EVIDENCE.md` | Confirmed — `/en/redirection` is correct, `/en/old-redirection` confirmed 404 |
+| Kein Täter werden: URL changed from EUCPN secondary source to `https://www.kein-taeter-werden.de/` — confirm this is the programme's current website | `data/help-services.json` | Confirmed — `https://www.kein-taeter-werden.de/` is the programme's official website |
 
 ## Evidence figures
 
@@ -37,4 +37,4 @@ Every `[VERIFY]` marker in the repository is collected here. These items need in
 |------|------|--------|
 | License confirmed as MIT | `LICENSE` | Confirmed by user |
 | Mentor time slots for Dr Christoffer Rahm and Dr Juha Nurmi | `README.md`, `BRIEF.md` | TBD |
-| Challenge brief PDF is draft v1.1 — confirm this is the final version | `UNICRI Challenge Brief HFG#8 {draft v1.1 _ 3 Nov 2026}.pdf` | Open |
+| Challenge brief PDF confirmed as final version, renamed to drop "draft" label | `UNICRI Challenge Brief HFG#8.pdf` | Confirmed |

@@ -24,10 +24,9 @@ All links from verified facts and further research papers, organised by topic.
 
 - **ReDirection (Protect Children, Finland)** — Multilingual anonymous self-help programme.
   <https://www.suojellaanlapsia.fi/en/redirection>
-  [VERIFY] URL was previously `/en/old-redirection` but that 404s. Confirm the current URL.
 
 - **Kein Tater werden / Dunkelfeld (Germany)** — Free confidential therapy, relying on medical confidentiality under section 203 of the German Penal Code.
-  <https://eucpn.org/document/german-project-prevention-project-dunkelfeld-ppd>
+  <https://www.kein-taeter-werden.de/>
 
 ---
 
