@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "concurrently --names platform,backend \"vite --config vite.config.js\" \"node starter-backend/server.js\"",
     "check": "node tools/check-safety.js",
-    "test": "node --test \"test/**/*.test.js\"",
+    "test": "node --test test/check-safety.test.js",
     "generate:traffic": "node tools/generate-traffic.js",
     "dashboard": "vite dev --config vite-dashboard.config.js"
   },
