@@ -111,8 +111,8 @@ Run `npm run check` before every commit. Read the full rules in [SAFETY.md](SAFE
 ## Resources and Mentors
 
 - **Emma Persson** (UNICRI, Associate Programme Officer) — on site at the hackathon
-- **Dr Christoffer Rahm** (Karolinska Institutet, Sweden) — leads the Prevent It research on anonymous online therapy. Online Q&A [TBD: time slot]
-- **Dr Juha Nurmi** (Tampere University, Finland) — built the Ahmia search engine, researches warning messages on the dark web. Online Q&A [TBD: time slot]
+- **Dr Christoffer Rahm** (Karolinska Institutet, Sweden) — leads the Prevent It research on anonymous online therapy. Online Q&A — check Discord for times
+- **Dr Juha Nurmi** (Tampere University, Finland) — built the Ahmia search engine, researches warning messages on the dark web. Online Q&A — check Discord for times
 
 **Dutch help services:**
 - Preventielijn van Offlimits: 0800 266 64 36 | <https://preventielijn.offlimits.nl>

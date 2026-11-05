@@ -36,5 +36,5 @@ Every `[VERIFY]` marker in the repository is collected here. These items need in
 | Item | File | Status |
 |------|------|--------|
 | License confirmed as MIT | `LICENSE` | Confirmed by user |
-| Mentor time slots for Dr Christoffer Rahm and Dr Juha Nurmi | `README.md`, `BRIEF.md` | TBD |
+| Mentor time slots for Dr Christoffer Rahm and Dr Juha Nurmi — updated to point to Discord | `README.md`, `BRIEF.md` | Confirmed |
 | Challenge brief PDF confirmed as final version, renamed to drop "draft" label | `UNICRI Challenge Brief HFG#8.pdf` | Confirmed |
