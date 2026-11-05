@@ -14,8 +14,6 @@ A warning page plus reThink chatbot deployed on Pornhub UK.
 - 490 click-throughs to help resources
 - Approximately 68 calls or chats to Stop It Now
 
-[VERIFY] The evaluation metadata mentions 1,656 information requests, which may differ from the 490 click-throughs figure. Confirm which metric applies to which action.
-
 **Source:** University of Tasmania, reThink Chatbot Evaluation
 <https://figshare.utas.edu.au/articles/report/reThink_Chatbot_Evaluation/25320859>
 
