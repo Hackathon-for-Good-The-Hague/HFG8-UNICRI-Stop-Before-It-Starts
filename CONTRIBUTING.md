@@ -106,7 +106,6 @@ If you add a phone number, URL, legal article or research finding:
 
 1. **Verify it** against an authoritative source.
 2. If you cannot verify it during the hackathon, add a `[VERIFY]` marker in the text.
-3. List unverified items in `VERIFY.md`.
 
 ---
 

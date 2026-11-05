@@ -20,7 +20,7 @@ Counters and rates, with small counts suppressed (below 10). See the [plug-in co
 
 ## 5. Do not invent facts
 
-Phone numbers, URLs, legal articles and research findings must come from verified sources. If you need a fact that is not in the data files, add a `[VERIFY]` marker and list it in [VERIFY.md](VERIFY.md). Do not guess.
+Phone numbers, URLs, legal articles and research findings must come from verified sources. If you cannot verify a fact during the hackathon, add a `[VERIFY]` marker in the text. Do not guess.
 
 ## 6. Write message texts in your own words
 

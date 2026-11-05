@@ -53,7 +53,6 @@ README.md                  You are here
 BRIEF.md                   Full challenge brief in markdown
 SAFETY.md                  Safety rules (read this first)
 CONTRIBUTING.md            How to fork, branch and contribute
-VERIFY.md                  Items that need independent verification
 CODE_OF_CONDUCT.md         Contributor Covenant v2.1
 CLAUDE.md                  Context for AI coding assistants
 research/
