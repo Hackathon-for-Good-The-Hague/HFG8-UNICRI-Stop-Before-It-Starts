@@ -91,10 +91,10 @@ An anonymous multilingual self-help programme run by Protect Children (Finland),
 
 ## 7. Prevent It Online Therapy (Karolinska Institutet)
 
-A randomised placebo-controlled trial of anonymous online CBT-based therapy for people who use CSAM.
+Randomised controlled trials of anonymous online CBT-based therapy for people who use CSAM.
 
 **Key findings:**
-- Small but statistically significant reduction in use of child sexual abuse material
+- Three randomised, controlled trials have found significant positive effects both on actual offending behaviour towards children as well as on risk factors for future abuse
 
 **Source:** Karolinska Institutet news release
 <https://news.ki.se/reduced-use-of-child-sexual-abuse-material-after-online-cbt>

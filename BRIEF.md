@@ -32,7 +32,7 @@ This is the context UNICRI offers you as a team during Hackathon for Good #8.
 UNICRI wants to close that gap, but today:
 
 - Most platforms show no warning at all. The large platforms that do set theirs up one by one, often together with a specialist charity.
-- Smaller and mid-sized platforms (forums, gaming chats, adult sites, hosting services) have no ready-made option. UNICRI's expert network reports that at a recent tech conference, several platforms admitted they have no easy solution and do not know what to do.
+- Smaller and mid-sized platforms (forums, gaming chats, adult sites, hosting services) have no easy, cheap or ready-made solution.
 - Even where warnings run, only about 1 in 100 people click through to help.
 - Nobody yet knows which message, format and timing works best for which group of people, so there is room for new ideas.
 - Help services exist in the Netherlands, but people rarely find them at the moment it matters.
@@ -62,11 +62,11 @@ Legal source: [Openbaar Ministerie, Aanwijzing kinderpornografie](https://www.om
 
 ### 2. The Route to Help (overview provided)
 
-You do not need to research the help landscape: the existing Dutch options are listed under [Resources and Inspiration](#resources-and-inspiration). Roughly 1 in 100 people who see a warning click through to help, so this jump is where most people drop off. Your package routes people to the Dutch services, explains honestly what is confidential, and hands over to human professionals rather than replacing them.
+You do not need to research the help landscape: the existing Dutch and global options are listed under [Resources and Inspiration](#resources-and-inspiration). Roughly 1 in 100 people who see a warning click through to help, so this jump is where most people drop off. Your package routes people to the Dutch services, explains honestly what is confidential, and hands over to human professionals rather than replacing them.
 
 ### 3. Plug-and-Play for Platforms (the core build)
 
-A lightweight, open module a platform can drop into its existing workflow: how the warning is triggered, which format it takes, how routing works per country and language, and how the platform measures impact without tracking individuals. Focus on making adoption cheap, easy and compelling, not on building new detection. Show the message in the language of the user's device or browser, and design so that the legal message and help services can be swapped per country, for roll-out across the EU and beyond.
+A lightweight, open module a platform can drop into its existing workflow: how the warning is triggered, which format it takes, how routing works per country and language, and how the platform measures impact without tracking individuals. Focus on making adoption cheap, easy and compelling, not on building new detection. Show the message in English and eventually in the language of the user's device or browser, and design so that the legal message and help services can be swapped per country, for roll-out across the EU and beyond.
 
 ---
 
@@ -148,7 +148,7 @@ Worried about someone close to them, or about a client or patient, and unsure ho
 
 *Beneficial if feasible.*
 
-- **Must:** be easy for a small platform to switch on, combine a clear warning with a route to Dutch help services, and protect the privacy of the people who see it.
+- **Must:** be easy for a small platform to switch on, combine a clear warning with a route to Dutch or global help services, and protect the privacy of the people who see it.
 - **Should:** be honest about legal consequences and about what is confidential, work in Dutch and English, and be accessible (plain language, screen readers, contrast).
 - **Should not:** identify, track or expose individuals, or replace human professionals.
 - **Could:** support other countries and languages, rotate and test message variants, and give platforms a simple impact dashboard.
@@ -168,7 +168,7 @@ There is no dataset for this challenge, and you do not need one. The challenge G
 - A sheet on legal consequences and confidentiality per country
 - Templates for your submission
 
-**Never search for, open, download or share child sexual abuse material, and never type abuse-related search terms into real platforms to test a warning.** In the Netherlands, even receiving such material can be a criminal offence. Use mock environments only.
+**Never search for, open, download or share child sexual abuse material, and never type abuse-related search terms into real platforms to test a warning.** In the Netherlands, even receiving such material can be a criminal offence (NOS, 2018). Use mock environments only.
 
 ---
 
@@ -201,40 +201,29 @@ See [SAFETY.md](SAFETY.md) for the full safety rules enforced in this repository
 
 **Anonymous self-help, ReDirection (Finland):** about half of more than 17,000 survey respondents say they want to stop; only 3% report having received help. Source: Protect Children, ReDirection programme. Two follow-up studies by the same team look at which CSAM users go on to contact children (Insoll et al. 2022) and what makes people seek help (Insoll et al. 2024); both are listed under [Resources and Inspiration](#resources-and-inspiration).
 
-**Anonymous online therapy, Prevent It (Karolinska Institutet):** a randomised placebo-controlled trial found a small but significant reduction in use of abuse material. Source: [Karolinska Institutet news release](https://news.ki.se/reduced-use-of-child-sexual-abuse-material-after-online-cbt)
+**Anonymous online cognitive behavioural therapy, Prevent It (Karolinska Institutet):** three randomised, controlled trials have found that Prevent It has significant positive effects both on actual offending behaviour towards children as well as on risk factors for future abuse. Source: [Karolinska Institutet](https://news.ki.se/reduced-use-of-child-sexual-abuse-material-after-online-cbt)
 
-**Watch out: confidentiality.** Fear of being reported keeps people from seeking help, and the rules differ by country. Anonymous prevention lines in the Netherlands and Flanders are built on confidentiality, and Germany's Dunkelfeld programme relies on medical confidentiality under section 203 of the German Penal Code. England is moving the other way: the Crime and Policing Act 2026 created a reporting duty for people in regulated activity with children, with guidance still to come. Your package must tell people honestly what is and is not confidential where they live.
+**Watch out: confidentiality.** Fear of being reported keeps people from seeking help, and the rules differ by country. Anonymous prevention lines in the Netherlands and Flanders are built on confidentiality, and Germany's Dunkelfeld programme relies on medical confidentiality under section 203 of the German Penal Code (Journal of Prevention, 2025). England is moving the other way: the Crime and Policing Act 2026 created a reporting duty for people in regulated activity with children, with guidance still to come (NSPCC). Your package must tell people honestly what is and is not confidential where they live.
 
-**Vigilantism backfires.** In 2020, Dutch "pedojager" groups lured men into meetings and filmed or assaulted them; police counted around 250 violent incidents in a few months. Reclassering Nederland warns that exposing and isolating people raises the risk of abuse rather than lowering it. Vigilantism signals a lack of better options; this challenge is about building one, based on evidence.
+**Vigilantism backfires.** In 2020, Dutch "pedojager" groups lured men into meetings and filmed or assaulted them; police counted around 250 violent incidents in a few months (Hart van Nederland). Reclassering Nederland warns that exposing and isolating people raises the risk of abuse rather than lowering it (NOS, 2020). Vigilantism signals a lack of better options; this challenge is about building one, based on evidence.
 
-**Many perpetrators were once victims, though most victims never offend.** A meta-analysis found that people convicted of sexual offences, especially against children, report childhood sexual abuse more often than people convicted of other offences (Jespersen, Lalumiere and Seto, 2009). That supports prevention rooted in empathy and help. Abuse is never inevitable for survivors.
+**Keep in mind:** many perpetrators were once victims, though most victims never offend. A meta-analysis found that people convicted of sexual offences, especially against children, report childhood sexual abuse more often than people convicted of other offences (Jespersen, Lalumiere and Seto, 2009). That supports prevention rooted in empathy and help. Abuse is never inevitable for survivors.
 
 ---
 
 ## What You Deliver
 
-At the end of the hackathon, each team delivers:
+At the end of the hackathon, each team delivers on Junction:
 
-- **A working prototype or demo** of the package, shown in a mock platform (for example a clickable flow, an embeddable module or a chatbot demo).
-- **A 3-minute pitch** for the jury, followed by 2 minutes of questions.
-- **A one-page rationale and safe test plan:** target stage, platform, country, the evidence or theory behind the design, and how UNICRI, a platform or a research partner could measure whether it works without exposing anyone to harm.
-- **A repository link and a short description:** what you built and how a platform installs it.
-
-### How the Jury Scores
-
-| Criterion | Weight | Description |
-|-----------|--------|-------------|
-| Impact on prevention | 25% | Plausibly stops behaviour or moves people to help, grounded in evidence |
-| Adoptability | 25% | Easy to switch on, low cost, works across languages and is accessible |
-| Creativity | 20% | A new angle on format or packaging, not a copy of an existing pop-up |
-| Safety and ethics | 20% | Protects children first, respects privacy, honest about confidentiality, no harm from testing |
-| Clarity of pitch | 10% | Clear problem, user, solution and next step |
+- A working prototype or demo.
+- A 3-minute pitch for the jury.
+- A repository link and a short description: what you built, how it works, and why.
 
 ---
 
 ## Follow-Up Opportunity
 
-The outcomes of this challenge will be shared on the AI for Safer Children Global Hub, the UNICRI platform used by law enforcement from more than 120 countries.
+The outcomes of this challenge will be shared on the AI for Safer Children Global Hub, the UNICRI platform used by law enforcement in more than 130 countries.
 
 Irakli Beridze, Head of the UNICRI Centre for AI and Robotics, joins the final pitches in person on Sunday 8 November, and the UAE Ministry of Interior gives opening remarks online.
 
@@ -243,21 +232,28 @@ Irakli Beridze, Head of the UNICRI Centre for AI and Robotics, joins the final p
 ## Resources and Inspiration
 
 - **UNICRI on site.** Emma Persson, Associate Programme Officer at the UNICRI Centre for AI and Robotics, is at the hackathon to answer questions and give feedback.
-- **Expert mentors online.** Dr Christoffer Rahm (Karolinska Institutet, Sweden), who leads the Prevent It research on anonymous online therapy, and Dr Juha Nurmi (Tampere University, Finland), who built the Ahmia search engine and researches warning messages on the dark web. They host an online Q&A for all teams [TBD: time slot].
-- **Dutch help services:**
-  - [Preventielijn van Offlimits](https://preventielijn.offlimits.nl) (formerly Stop it Now Nederland): anonymous, free phone and chat, 0800 266 64 36, plus a peer group and conversation guides for partners and family.
-  - [Stoppen is mogelijk](https://stoppen-is-mogelijk.eu): anonymous self-help module for people worried about their viewing.
-- Protect Children: Preventive Pathways, [how warning messages interrupt and prevent online child sexual abuse at scale](https://www.suojellaanlapsia.fi/en/post/preventive-pathways-csam-warnings-research-report) (June 2026)
+- **Expert mentors online.** Dr Christoffer Rahm (Karolinska Institutet, Sweden), who leads the Prevent It research on anonymous online therapy, and Dr Juha Nurmi (Tampere University, Finland), who built the Ahmia search engine and researches warning messages on the dark web. They host an online Q&A for all teams, you can find the times on discord.
+- **Dutch help services.** [Preventielijn van Offlimits](https://preventielijn.offlimits.nl) (formerly Stop it Now Nederland): anonymous, free phone and chat, 0800 266 64 36, plus a peer group and conversation guides for partners and family. [Stoppen is mogelijk](https://stoppen-is-mogelijk.eu): anonymous self-help module for people worried about their viewing.
+- **International help services.** Protect Children is a centralized platform that gathers regional and international resources and helplines in one place, such as:
+  - **ReDirection** — An online self-help programme designed to help you live a life free from Child Sexual Abuse Material (CSAM). This programme uses a holistic approach and cognitive behavioural therapy to support consistent behavioural change.
+  - **Shore** — Provides a safe, anonymous space for teenagers concerned about their own or others' sexual thoughts or behaviour. Shore offers expert advice and support to help manage these concerns and learn to live safely online and offline.
+  - **Stop It Now! UK & Ireland** — A confidential helpline and self-help resource for anyone concerned about their thoughts or behaviours towards children. This service provides support and practical steps to help you move forward positively.
+  - **Help Wanted** — An online course aimed at helping individuals understand and control their attraction to children.
+  - **Troubled Desire** — An online service providing confidential resources and local therapist referrals for individuals concerned about their sexual feelings towards children and early adolescents (in English, French, German, Hindi, Marathi, Portuguese, and Spanish).
+  - **Helplinks.eu** — A directory of international and local resources and helplines for those seeking support regarding sexual thoughts or behaviours towards children.
+  - **Moore Center** — A collection of resources for those concerned about their sexual thoughts or behaviours.
 - University of Tasmania: [reThink Chatbot evaluation on Pornhub UK](https://figshare.utas.edu.au/articles/report/reThink_Chatbot_Evaluation/25320859) (2024)
 - Prichard et al.: [The effect of therapeutic and deterrent messages](https://researchcommons.waikato.ac.nz/items/e5453eac-e5e2-4a0a-b60d-056f24f799bd), Child Abuse and Neglect (2024)
 - Karolinska Institutet: [Prevent It trial results](https://news.ki.se/reduced-use-of-child-sexual-abuse-material-after-online-cbt), Internet Interventions (2022)
-- Protect Children: Online Warning Messages for CSAM Prevention, Evidence and Practice Mapping Report (2025)
+- Protect Children: [Online Warning Messages for CSAM Prevention](https://www.suojellaanlapsia.fi/en/post/preventive-pathways-csam-warnings-research-report), Evidence and Practice Mapping Report (2025)
+- Protect Children: Preventive Pathways, [how warning messages interrupt and prevent online child sexual abuse at scale](https://www.suojellaanlapsia.fi/en/post/preventive-pathways-csam-warnings-research-report) (June 2026)
 - Google Search: [Deterring searches for CSAM and promoting help-seeking](https://arxiv.org/abs/2606.06126) (preprint, 2026)
 - Lucy Faithfull Foundation: [Project Intercept](https://nominet.uk/news/more-than-70-million-attempts-to-access-child-sexual-abuse-imagery-intercepted-via-warning-messages-charity-reveals/), and Lessons from seven years of deterrence campaigning
-- [ReDirection (Protect Children, Finland)](https://www.suojellaanlapsia.fi/en/redirection), a multilingual anonymous self-help programme
-- [Kein Tater werden / Dunkelfeld (Germany)](https://eucpn.org/document/german-project-prevention-project-dunkelfeld-ppd), free confidential therapy
-- [Stop It Now UK and Ireland](https://www.stopitnow.org.uk) (Lucy Faithfull Foundation), helpline 0808 1000 900
+- ***Tip: for designing the route to help, start with Insoll et al. (2022 and 2024) and Lahtinen et al. (2025) in the research papers below.***
 - Internet Watch Foundation: How AI is being abused to create child sexual abuse imagery
+- For scaling beyond the Netherlands: [Stop It Now UK and Ireland](https://www.stopitnow.org.uk) (Lucy Faithfull Foundation), helpline 0808 1000 900
+- [ReDirection (Protect Children, Finland)](https://www.suojellaanlapsia.fi/en/redirection), a multilingual anonymous self-help programme
+- [Kein Täter werden / Dunkelfeld (Germany)](https://www.kein-taeter-werden.de/), free confidential therapy
 
 ### Research Papers
 
@@ -266,7 +262,7 @@ Irakli Beridze, Head of the UNICRI Centre for AI and Robotics, joins the final p
 - Insoll, Tegan, Valeriia Soloveva, Eva Diaz Bethencourt, Anna Katariina Ovaska, Juha Nurmi, Arttu Paju, Mikko Aaltonen, and Nina Vaaranen-Valkonen. "Factors associated with help-seeking among online child sexual abuse material offenders: Results of an anonymous survey on the dark web." *Journal of Online Trust and Safety* 2, no. 4 (2024). <https://doi.org/10.54501/jots.v2i4.205>
 - Lahtinen, Hanna-Mari, Kirsi Honkalampi, Tegan Insoll, Juha Nurmi, Ethel Quayle, Anna Katariina Ovaska, and Nina Vaaranen-Valkonen. "Investigating the disparities among child sexual abuse material users: Anonymous self-reports from both charged and uncharged individuals." *Child Abuse & Neglect* 161 (2025): 107299. <https://doi.org/10.1016/j.chiabu.2025.107299>
 - Ciardha, Caoilte O., Joel Scanlan, Tegan Insoll, Juha Nurmi, and Nina Vaaranen-Valkonen. "Warning Message Content Increases Help Seeking in a Large-Scale Dark Web CSAM Intervention." arXiv preprint arXiv:2606.06417 (2026). <https://doi.org/10.48550/arXiv.2606.06417>
-- Protect Children: ["CSAM Perpetrator Research Report"](https://www.suojellaanlapsia.fi/en/post/tmat-csam-perpetrator-research-report)
+- Protect Children: ["CSAM Perpetrator Research Report"](https://www.suojellaanlapsia.fi/en/post/tmat-csam-perpetrator-research-report), plus the launch event video
 
 ---
 
